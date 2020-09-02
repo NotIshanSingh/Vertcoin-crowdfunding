@@ -1,1 +1,0 @@
-# Vertcoin-crowdfunding
