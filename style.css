@@ -1,0 +1,25 @@
+#vtc-logo {
+  height: 7%;
+  width: 7%;
+}
+
+body {
+  background-color: #90EE90;
+}
+
+.pfp {
+  height: 100px;
+  width: 100px;
+}
+
+.grid-container {
+  display: grid;
+}
+
+.grid-container {
+  display: inline-grid;
+}
+
+.old-projects {
+  margin-left: 1%;
+}
