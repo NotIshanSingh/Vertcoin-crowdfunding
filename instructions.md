@@ -1,4 +1,4 @@
-Hey! These are instructions on how to add new crowdfundign profiles
+These are instructions on how to add new crowdfunding profiles
 Inside `<div class="grid">`, add this code and obciosuly modify it:
 ```html
 <div class="grid-item">
